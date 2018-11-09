@@ -1,7 +1,8 @@
 rm(list=ls())
 setwd("/Users/ta4ha/Documents/BiocomputingBiocomp-Fall2018-181102-Exercise9")
 
-# Problem 1
+# Problem 1 - Comparing the points per game and the win total for each
+# of the 30 teams in the NBA for the 2017-18 season
 
 # Load Packages
 library('ggplot2')
